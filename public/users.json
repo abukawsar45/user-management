@@ -5,57 +5,73 @@
     "name": "Dr. Abdullah Jahangir",
     "image": "https://i.ibb.co/SRzbRdP/abdullah-jahangir-sir.jpg",
     "email": "abdullahjahangir@gmail.com",
-    "age": "55"
+    "age": "55",
+    "number": "01***********",
+    "info": "He is the founder of As-Sunnah Trust, a non-profit educational charity organisation. During his time as the Professor of Al-Hadith and Islamic Studies at the Islamic University, Bangladesh, 12 students received PhD and 30 received MPhil. Jahangir authored many books pertaining to Islam in Bengali, English and Arabic."
   },
   {
     "id":"2",
     "name": "Abdur Razzak",
     "image": "https://i.ibb.co/LnHMYVh/abdur-razzak.jpg",
     "email": "abdurrazzak@gmail.com",
-    "age": "48"
+    "age": "48",
+    "number": "01***********",
+    "info": "Abdur Razzak bin Yousuf is a very familiar name among the Bengali speaking people of the Indian subcontinent. He is popular islamic scholer of Bangladesh for few people. Because he follow ahle Hadis. He has walked all walks of life in all fields of service, including lectures on the Qur'an and Sunnah, writing Islamic books, teaching, editing magazines and managing various institutions including madrasas."
   },
   {
     "id":"3",
     "name": "Jamshed Mojumder",
     "image": "https://i.ibb.co/R0Ycqnw/dr-jamseh-mojumder.jpg",
     "email": "jamshedmodumder@gmail.com",
-    "age": "38"
+    "age": "38",
+    "number": "01***********",
+    "info": "Jamshed Mojumder is a Younge Man. He is very innocent"
   },
   {
-    "id":"4",
+    "id": "4",
     "name": "Mahmud Bin Kashem",
     "image": "https://i.ibb.co/kB6TjcT/dr-mahmud-bin-kashem.jpg",
     "email": "kashem@gmail.com",
-    "age": "40"
+    "age": "40",
+    "number": "01***********",
+    "info": "Mahmud Bin Kashem is a Younge Man. He is very innocent"
   },
   {
-    "id":"5",
+    "id": "5",
     "name": "Dr Zakaria",
     "image": "https://i.ibb.co/VV6PShy/dr-zakaria.jpg",
     "email": "zakaria@gmail.com",
-    "age": "57"
+    "age": "57",
+    "number": "01***********",
+    "info": "Abubakar Muhammad Zakaria Mojumder is a Bangladeshi Islamic scholar, media personality, professor, writer, preacher and Islamic speaker. He is  born 1969 in Dhanushara at Comilla. He is currently serving as a Professor in the Department of Fiqh and Legal Studies at Islamic University Kushtia."
   },
   {
     "id":"6",
     "name": "Motiur Rahman Madani",
     "image": "https://i.ibb.co/hy6K7nG/motiur-rahman.jpg",
     "email": "motiurrahman@gmail.com",
-    "age": "54"
+    "age": "54",
+    "number": "01***********",
+    "info": "Shaykh Matiur Rahman Madani is a famous Islamic thinker and scholar of religion and fearless speaker of the present era. He is famous for his document-based strong statements against Shirk Bid'at, superstitions prevalent in society in the name of Islam in the light of Quran and Sunnah. His Bengali speech is found in almost all important branches of Islam."
   },
   {
-    "id":"7",
+    "id": "7",
     "name": "Abu Kaw Sar",
-    "image": "https://lh3.googleusercontent.com/a/AAcHTtdRN6TUPJ1N2ziEazru8XZj3nYwOTZEHlXS1-5r=s96-c",
+    "image": "https://i.ibb.co/jhkwDck/121648061.jpg",
     "email": "abukawsar317317@gmail.com",
-    "age": "23"
+    "age": "23",
+    "number": "01***********",
+    "info": "Abu Kaw Sar is a Muslim boy. He is born in 2001 in Tangail."
   },
  
   {
-    "id":"8",
+    "id": "8",
     "name": "sakil",
-    "image": "https://i.ibb.co/jhkwDck/121648061.jpg",
+    "image": "https://lh3.googleusercontent.com/a/AAcHTtdRN6TUPJ1N2ziEazru8XZj3nYwOTZEHlXS1-5r=s96-c",
     "email": "sakil@s.com",
-    "age": "38"
+    "age": "38",
+    "number": "01***********",
+    "info": "Shakil is a famous boy in the wrold."
   }
 
 ]

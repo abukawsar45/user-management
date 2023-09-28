@@ -1,21 +1,17 @@
-import React, { useEffect} from 'react';
 import './UserCard'
 import { Link } from 'react-router-dom';
 
 const UserCard = ({user}) => {
-  // useEffect(()=>{
-  //   fetch('./users.json').then(res=>res.json()).then(data=>console.log(data))
-  // },[])
-  const {name,image,email,id} = user || {};
-  console.log(user)
+  const { name, image, email, id } = user || {};
+  // console.log(user)
   return (
     <>
       {/*  */}
-      <tr className='bg-slate-400 table-data mx-4 w-full'>
-        <td>
+      <tr className='bg-slate-400 my-1 table-data mx-4 w-full'>
+        <td className='text-center'>
           <img
             src={image}
-            className=' md:mx-4 lg:mx-8    w-24  object-contain rounded-full'
+            className='mx-auto w-24 object-contain rounded-full'
             alt='user-image'
           />
         </td>{' '}

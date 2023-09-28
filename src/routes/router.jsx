@@ -18,7 +18,14 @@ const router = createBrowserRouter([
       },
       {
         path: 'user/:id',
-        element: <SingleUser/>
+        element: <SingleUser/>,
+        loader: ({params})=> fetch('./users.json').then(res=>res.json()).then(data=>{
+          // console.log(data)
+          const specificUser = data.find((user)=>user.id===params.id);
+          // console.log(specificUser);
+          return specificUser;
+        })
+
       }
     ],
   },
